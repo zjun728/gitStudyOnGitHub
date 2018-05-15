@@ -1,1 +1,2 @@
 this is a LICENSE text 
+git remote add origin git@github.com:zjun728/gitStudyOnGitHub.git
