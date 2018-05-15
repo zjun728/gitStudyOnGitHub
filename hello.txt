@@ -1,2 +1,7 @@
 not finish file
+<<<<<<< HEAD
+=======
+already finish
+not finish file
+>>>>>>> dev
 already finish
