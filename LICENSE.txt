@@ -1,1 +1,1 @@
-this is LICENSE text
+this is a LICENSE text 
